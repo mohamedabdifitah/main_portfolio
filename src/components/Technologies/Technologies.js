@@ -32,7 +32,8 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Node , Mongodb
+	    Django and PostgreSQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
